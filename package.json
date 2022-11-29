@@ -1,0 +1,31 @@
+{
+  "name": "proyecto-backend-dani-y-diego",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.26.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMiguelez/BackEndProject.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/DanielMiguelez/BackEndProject/issues"
+  },
+  "homepage": "https://github.com/DanielMiguelez/BackEndProject#readme",
+  "description": ""
+}
